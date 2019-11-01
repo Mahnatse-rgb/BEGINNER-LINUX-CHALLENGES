@@ -1,4 +1,4 @@
-ask 1 : Basic Task
+Task 1 : Basic Task
 1. Typing ls in the linux terminal displayed all the contents of my directory.
 2.	The out put of entering pwd on my terminal shows the working directory.
 3.	 mkdir workspace
